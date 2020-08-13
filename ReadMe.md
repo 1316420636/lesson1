@@ -1,7 +1,5 @@
-First change
+Delete First change
 Second change
-hello word
-add
 Third change
-ddd
+add ddd
 finish
